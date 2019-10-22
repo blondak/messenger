@@ -16,6 +16,7 @@
 	"require": {
 		"php": "^7.1",
 		"symfony/messenger": "^4.3",
+		"symfony/service-contracts": "^1.1",
 		"nette/di": "^3.0",
 		"mockery/mockery": "^1.2",
 		"nette/schema": "^1.0",
