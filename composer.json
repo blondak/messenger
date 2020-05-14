@@ -18,7 +18,7 @@
 		"symfony/messenger": "^5.0",
 		"nette/di": ">=2.4",
 		"nette/schema": "^1.0",
-		"tracy/tracy": "^2.6"
+		"tracy/tracy": ">=2.4"
 	},
 	"require-dev": {
 		"mockery/mockery": "^1.2",
